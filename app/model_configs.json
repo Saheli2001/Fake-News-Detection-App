@@ -1,0 +1,4 @@
+{
+  "tfidf": ["logistic", "random_forest", "xgboost"],
+  "word2vec": ["logistic", "random_forest"]
+}
